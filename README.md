@@ -42,5 +42,48 @@ This extension does not currently have any configurable settings.
 - Improved code completion for PowerShell App Deployment Toolkit functions and parameters.
 - Fixed a bug related to syntax highlighting for PowerShell scripts.
 
+## Contributing
 
-**Enjoy!**
+Thank you for considering contributing to the PSADT vscode integration! Here are some ways that you can help
+
+###Bug Reports and Feature Requests
+
+If you encounter a bug or have a feature request, please submit an issue on our [PSADT vscode integration GitHub repository.](https://github.com/LewisBrown2204/psadt-integration/issues)
+When submitting an issue, please provide as much detail as possible, including steps to reproduce the issue, error messages, and any relevant system information.
+
+
+## Code Contributions
+
+If you would like to contribute code changes to the PSADT vscode integration, please follow these steps:
+
+-    Fork the [PSADT vscode integration repository on GitHub.](https://github.com/LewisBrown2204/psadt-integration.git)
+-    Create a new branch for your changes.
+-    Make your changes to the codebase.
+-    Write tests to cover your changes.
+-   Ensure that all tests pass by running 'npm test'.
+-    Submit a pull request to the main repository.
+
+Please ensure that your code changes adhere to the code style guidelines and that you have thoroughly tested your changes before submitting a pull request.
+
+## Code Style Guidelines
+
+When contributing code changes to the PSADT vscode integration, please follow these guidelines:
+
+-    Use 2 spaces for indentation.
+-    Use descriptive variable and function names.
+-    Use camelCase for variable and function names.
+-    Use single quotes for strings.
+-    Use semicolons at the end of each statement.
+-    Use JSDoc comments to document functions and methods.
+
+## Testing
+
+To test the PSADT vscode integration, you can run npm test from the command line. This will run the unit tests and integration tests for the extension.
+
+## Code of Conduct
+
+All contributors to the PSADT vscode integration are expected to follow the Code of Conduct outlined in the repository.
+
+## Contact Information
+
+If you have any questions or issues, please feel free to contact us. We appreciate your interest in the PSADT vscode integration and look forward to working with you!
