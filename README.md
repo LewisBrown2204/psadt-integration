@@ -35,7 +35,7 @@ This extension does not currently have any configurable settings.
 
 ### 1.1.0
 
-- Added support for PowerShell App Deployment Toolkit version 3.8.3.
+- Added support for PowerShell App Deployment Toolkit version 3.9.3.
 
 ### 1.2.0
 
@@ -46,7 +46,7 @@ This extension does not currently have any configurable settings.
 
 Thank you for considering contributing to the PSADT vscode integration! Here are some ways that you can help
 
-###Bug Reports and Feature Requests
+### Bug Reports and Feature Requests
 
 If you encounter a bug or have a feature request, please submit an issue on our [PSADT vscode integration GitHub repository.](https://github.com/LewisBrown2204/psadt-integration/issues)
 When submitting an issue, please provide as much detail as possible, including steps to reproduce the issue, error messages, and any relevant system information.
