@@ -1,4 +1,4 @@
-# psadt-integration README
+# PSADT vscode integration
 
 
 ## Features
