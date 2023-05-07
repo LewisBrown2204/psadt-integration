@@ -1,0 +1,25 @@
+{
+  "name": "psadt-integration",
+  "displayName": "PSADT Integration",
+  "description": "Integrates the PowerShell App Deployment Toolkit (PSADT) into VS Code by providing tab completion and command suggestions when creating new deploy-application.ps1 scripts.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "powershell",
+      "aliases": ["PowerShell", "powershell"],
+      "extensions": [".ps1",".psd1",".psm1"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "powershell",
+      "scopeName": "source.powershell",
+      "path": "./syntaxes/powershell.tmLanguage.json"
+    }]
+  }
+}
